@@ -1,2 +1,2 @@
 # Allwoods-Small-Typing-Game
-This is a typing game developed using windows forms and C#, users must type the word shown on screen in the text box and once they press enter they receive a point and another randomly generated word.
+This is a typing game developed using windows forms and C#, users must type the word shown on screen in the text box and once they press enter they receive a point and another randomly generated word. users can score incorrectly based on punctuation and spelling of each word so users should be careful on what they type, I want to implement more features in the future such as a way to give users feedback and a timer for each word the user has to type.
