@@ -1,0 +1,11 @@
+C:\Users\will\source\repos\Allwoods Typing Game 2021\Allwoods Typing Game 2021\bin\Debug\Allwoods Typing Game 2021.exe.config
+C:\Users\will\source\repos\Allwoods Typing Game 2021\Allwoods Typing Game 2021\bin\Debug\Allwoods Typing Game 2021.exe
+C:\Users\will\source\repos\Allwoods Typing Game 2021\Allwoods Typing Game 2021\bin\Debug\Allwoods Typing Game 2021.pdb
+C:\Users\will\source\repos\Allwoods Typing Game 2021\Allwoods Typing Game 2021\obj\Debug\Allwoods_Typing_Game_2021.Form1.resources
+C:\Users\will\source\repos\Allwoods Typing Game 2021\Allwoods Typing Game 2021\obj\Debug\Allwoods_Typing_Game_2021.Properties.Resources.resources
+C:\Users\will\source\repos\Allwoods Typing Game 2021\Allwoods Typing Game 2021\obj\Debug\Allwoods Typing Game 2021.csproj.GenerateResource.cache
+C:\Users\will\source\repos\Allwoods Typing Game 2021\Allwoods Typing Game 2021\obj\Debug\Allwoods Typing Game 2021.csproj.CoreCompileInputs.cache
+C:\Users\will\source\repos\Allwoods Typing Game 2021\Allwoods Typing Game 2021\obj\Debug\Allwoods Typing Game 2021.exe
+C:\Users\will\source\repos\Allwoods Typing Game 2021\Allwoods Typing Game 2021\obj\Debug\Allwoods Typing Game 2021.pdb
+C:\Users\will\source\repos\Allwoods Typing Game 2021\Allwoods Typing Game 2021\obj\Debug\Allwoods Typing Game 2021.csproj.AssemblyReference.cache
+C:\Users\will\source\repos\Allwoods Typing Game 2021\Allwoods Typing Game 2021\obj\Debug\Allwoods Typing Game 2021.csproj.SuggestedBindingRedirects.cache
